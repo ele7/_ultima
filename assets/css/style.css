@@ -1,0 +1,39 @@
+body {
+    background-color:white;
+    color:black;
+    font-family: raleway, zilla slab, sans-serif
+}
+h1{
+    color: black;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    display: inline-block;
+}
+
+.pieg{
+    padding-left: 25%;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+}
+
+
+.color-trabajo {
+    background-color: #ffcc00;
+    color: black;
+}
+.d-none {
+    display: none;
+}
+
+.row{
+        display: flex;
+        margin-right: -15px;
+        margin-left: -15px;
+        box-sizing: border-box;
+
+}
